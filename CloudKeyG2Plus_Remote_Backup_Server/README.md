@@ -136,7 +136,7 @@ Use the documentation files provided:
 - `smb.md` – Samba (SMB) setup for `/volume1/backup`  
 - `wireguard.md` – WireGuard client configuration  
 - `Led and Battery.md` – LED control and battery monitoring  
-- `rsync-snapshots.md` – Snapshot backup script and usage instructions
+- [SSH-Rsync-Snapshot](https://github.com/PricelessToolkit/HomeLab/tree/main/SSH-Rsync-Snapshots) – Snapshot backup script and usage instructions
   
 ---
 
