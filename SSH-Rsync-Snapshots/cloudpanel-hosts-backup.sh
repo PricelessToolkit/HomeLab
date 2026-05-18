@@ -49,9 +49,9 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-REMOTE_USER="root"
-REMOTE_HOST="77.37.125.13"
-SSH_KEY="/home/madman/.ssh/id_ed25519"
+REMOTE_USER="user"
+REMOTE_HOST="77.xx.xx.xx"
+SSH_KEY="/home/user/.ssh/id_ed25519"
 
 # Set this to any local folder on the backup server where you want backups stored
 LOCAL_DEST="/path/to/your/local/backup-folder"
