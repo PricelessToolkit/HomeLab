@@ -2,7 +2,7 @@
 <tr>
 <td width="40%">
 
-<img src="https://github.com/PricelessToolkit/Cloudkey-Repurposed/blob/main/img/CKG2.jpeg" width="100%"/>
+<img src="https://raw.githubusercontent.com/PricelessToolkit/HomeLab/refs/heads/main/CloudKeyG2Plus_Remote_Backup_Server/img/CKG2.jpeg" width="100%"/>
 
 </td>
 <td width="60%">
