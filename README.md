@@ -5,15 +5,30 @@
     </td>
     <td width="60%" valign="top">
 
-# HomeLAB
+<div align="center">
 
-Welcome to my **PricelessToolkit HomeLAB** repository.
 
-This repo documents my homelab setup, including hardware, rack layout, networking, services, automation, and configuration notes.
+
+# PricelessToolkit HomeLab
+
+Welcome to my **HomeLab** repository.
+
+This repo documents my Homelab / Smart Home setup, including hardware, rack layout, networking, services, automation, and configuration notes.
+
+[Shop](https://www.pricelesstoolkit.com) | [YouTube](https://www.youtube.com/watch?v=mJt_VbMeRAU)
+
+</div>
+
+<p align="center">
+  <a href="https://ko-fi.com/U6U2QLAF8">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee"/>
+  </a>
+</p>
+
+
 
 ## About
 
-- Smart Home
 - Rack overview
 - Network setup
 - Server hardware
@@ -23,9 +38,10 @@ This repo documents my homelab setup, including hardware, rack layout, networkin
 - Backup strategy
 
 ## Goals
-- Share useful configs and ideas
+
 - Keep documentation of my setup
 - Track changes over time
+- Share useful configs and ideas
 - Improve reliability and automation
 
     </td>
