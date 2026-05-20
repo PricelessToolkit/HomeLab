@@ -40,9 +40,7 @@ This repo documents my Homelab / Smart Home setup, including hardware, rack layo
 ## Goals
 
 - Keep documentation of my setup
-- Track changes over time
-- Share useful configs and ideas
-- Improve reliability and automation
+- Share useful configs and projects
 
     </td>
   </tr>
