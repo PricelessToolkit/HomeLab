@@ -2,7 +2,7 @@
 
 ![RackCooler pinout](pin.png)
 
-RackCooler is an ESPHome-based smart cooling controller for a homelab or server rack. It runs on an ESP32-C3, reads rack and intake temperatures with DS18B20 sensors, drives one or more 4-wire PWM fans with PID control, monitors fan RPM, and exposes the whole setup to Home Assistant.
+RackCooler is an ESPHome-based smart cooling controller for a HomeLab or server rack. It runs on an ESP32-C3, reads rack and intake temperatures with DS18B20 sensors, drives one or more 4-wire PWM fans with PID control, monitors fan RPM, and exposes the whole setup to Home Assistant.
 
 The controller is designed to keep the rack near a configurable target temperature while still giving you local feedback and manual control from the device itself. A small SSD1306 OLED shows intake temperature, rack temperature, target temperature, PWM output, and fan RPM. A KY-040 rotary encoder adjusts the thermostat target temperature without opening Home Assistant.
 
@@ -88,9 +88,5 @@ Before flashing, update these values in `rockcooling.yaml`:
 - Update the DS18B20 addresses if your sensors are different.
 
 Then flash it with ESPHome in the usual way:
-
-```sh
-esphome run rockcooling.yaml
-```
 
 After adoption in Home Assistant, tune the PID values from the exposed number entities while watching rack temperature, PWM percentage, and fan RPM.
