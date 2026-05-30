@@ -38,7 +38,7 @@ wifi:
 
   ap:
     ssid: "Rackcooling Fallback Hotspot"
-    password: "REDjj9rqxvrZ"
+    password: "password"
 
 captive_portal:
 
